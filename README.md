@@ -1,6 +1,4 @@
 ## Cappuccino tutorials
 
-You can read the [tutorials](http://www.cappuccino-tutorials.com).
-
 - First tutorial
-	- Simple CPTableView
+	- [Simple CPTableView](https://medium.com/@kicsipixel/simple-cptableview-tutorial-4c46ca4f77ef#.m7drqig3p)

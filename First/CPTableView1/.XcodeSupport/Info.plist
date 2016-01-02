@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>XCCCappuccinoObjjIncludePathKey</key>
+	<string>/Users/szabolcs/Development/Cappuccino/Tutorial/First/CPTableView1/Frameworks/Debug</string>
+	<key>XCCCappuccinoProcessCappLintKey</key>
+	<true/>
+	<key>XCCCappuccinoProcessNib2CibKey</key>
+	<true/>
+	<key>XCCCappuccinoProcessObjj2ObjcSkeletonKey</key>
+	<true/>
+	<key>XCCCappuccinoProcessObjjKey</key>
+	<true/>
+	<key>XCCCappuccinoProjectBinPathsKey</key>
+	<array>
+		<string>~/bin</string>
+	</array>
+	<key>XCCCappuccinoProjectLastEventIDKey</key>
+	<integer>18158641738179096341</integer>
+	<key>XCCCappuccinoProjectNicknameKey</key>
+	<string>CPTableView1</string>
+	<key>XCCCappuccinoProjectPreviousStatusKey</key>
+	<integer>1</integer>
+	<key>XCCCompatibilityVersion</key>
+	<string>4</string>
+</dict>
+</plist>
